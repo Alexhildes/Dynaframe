@@ -10,6 +10,7 @@ import paho.mqtt.client as mqtt
 from http.server import HTTPServer, BaseHTTPRequestHandler
 from urllib.parse import urlparse, parse_qs
 
+#Comment
 
 # customize before using!
 brokeraddress = "test.mosquitto.org" # you can use this as a test broker, or setup msoquitto on a rpi as an internal broker
